@@ -115,7 +115,7 @@ function Home() {
                 <p>
                   We bring together deep industry expertise and the latest IT advancements to deliver custom solutions and products that perfectly fit the needs and behavior of their users.
             </p>
-                <a href="#" className="btn-learn-more">Learn More</a>
+                <a href="#contact" className="btn-learn-more">Learn More</a>
               </div>
             </div>
 
