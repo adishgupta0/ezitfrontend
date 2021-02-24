@@ -386,7 +386,7 @@ function Home() {
                     <h4>CEO , Binary Semantics</h4>
                     <p>
                       <i className="bx bxs-quote-alt-left quote-icon-left"></i>
-                      ScienceSoft proved to be a professional service provider from the outset. We appreciate their proactive approach and ability to suggest improvements to a prospective solution on both architectural and business levels. We know we can always rely on ScienceSoft’s various competencies when our clients require quality software which would facilitate their business success.
+                      EZIT proved to be a professional service provider from the outset. We appreciate their proactive approach and ability to suggest improvements to a prospective solution on both architectural and business levels. We know we can always rely on EZIT's various competencies when our clients require quality software which would facilitate their business success.
                 <i className="bx bxs-quote-alt-right quote-icon-right"></i>
                     </p>
                   </div>
