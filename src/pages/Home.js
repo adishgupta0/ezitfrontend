@@ -878,12 +878,12 @@ function Home() {
                 <div className="info">
                   <div>
                     <i className="ri-map-pin-line"></i>
-                    <p>908-B,Manjeera Diamond,kukatpally,Hyderabad<br />telangana, India</p>
+                    <p>908-B,Manjeera Diamond,kukatpally,Hyderabad<br />Telangana, India</p>
                   </div>
 
                   <div>
                     <i className="ri-mail-send-line"></i>
-                    <p>info@ezit.in</p>
+                    <p>contact@ezit.in</p>
                   </div>
                   <div>
                     <i className="ri-phone-line"></i>
