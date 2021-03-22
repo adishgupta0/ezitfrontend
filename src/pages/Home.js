@@ -382,8 +382,8 @@ function Home() {
                   </div>
                   <div className="testimonial-item col-lg-6 col-md-6 col-sm-12">
                     <img style={{ height: `100px`, borderRadius: "50%" }} src="./assets/img/testimonials/testimonials-2.jpg" className="testimonial-img" alt="" />
-                    <h3>Akhilesh Sharma</h3>
-                    <h4>CEO , Binary Semantics</h4>
+                    <h3>Tarun Sharma</h3>
+                    <h4>CEO , Astro QR</h4>
                     <p>
                       <i className="bx bxs-quote-alt-left quote-icon-left"></i>
                       EZIT proved to be a professional service provider from the outset. We appreciate their proactive approach and ability to suggest improvements to a prospective solution on both architectural and business levels. We know we can always rely on EZIT's various competencies when our clients require quality software which would facilitate their business success.
@@ -643,7 +643,7 @@ function Home() {
               <div className="col-lg-3 col-md-6 d-flex align-items-stretch">
                 <div className="member" data-aos="fade-up" data-aos-delay="200">
                   <div className="member-img">
-                    <img src="assets/img/team/team-2.jpg" className="img-fluid" alt="" />
+                    <img src="assets/img/team/tarun.jpg" className="img-fluid" alt="" />
                     {/* <div className="social">
                   <a href=""><i className="icofont-twitter"></i></a>
                   <a href=""><i className="icofont-facebook"></i></a>
@@ -652,9 +652,9 @@ function Home() {
                 </div> */}
                   </div>
                   <div className="member-info">
-                    <h4>Adish Gupta</h4>
-                    <span>CEO</span>
-                    <span>10+ years of experiance in IT</span>
+                    <h4>Tarun Sharma</h4>
+                    <span>IT Consultant</span>
+                    <span>6+ years of experiance in IT</span>
 
                   </div>
                 </div>
@@ -878,7 +878,7 @@ function Home() {
                 <div className="info">
                   <div>
                     <i className="ri-map-pin-line"></i>
-                    <p>908-B,Manjeera Diamond,kukatpally,Hyderabad<br />Telangana, India</p>
+                    <p>209,Bakshi Nagar,Jammu<br />Jammu and kashmir, India</p>
                   </div>
 
                   <div>
@@ -887,12 +887,12 @@ function Home() {
                   </div>
                   <div>
                     <i className="ri-phone-line"></i>
-                    <p>+91 9055451499 (India)</p>
+                    <p>+91 8373939382 (India)</p>
                   </div>
-                  <div>
+                  {/* <div>
                     <i className="ri-phone-line"></i>
                     <p>+1 604 7856381 (Canada)</p>
-                  </div>
+                  </div> */}
 
                   
 
